@@ -12,8 +12,4 @@ while(a<10){
     }
     console.log(a);
     a++;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> af06cf1064da3f35449773a6a5d9007fae7fa150
