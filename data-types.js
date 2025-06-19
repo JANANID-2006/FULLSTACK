@@ -4,3 +4,4 @@ let price=150.23;
 let isStudent=false;
 
 console.log(name);
+
