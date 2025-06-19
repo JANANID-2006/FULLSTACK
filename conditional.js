@@ -8,3 +8,12 @@ else if(marks>=75){
 else{
     console.log("c grade");
 }
+//if(1){
+  //  console.log("Hello");
+//}
+if(0){
+    console.log("zero");
+}
+else{
+    console.log("Hi");
+}
